@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "2(TWO)"
-./count3.sh
+ echo 2
+bash count3.sh
